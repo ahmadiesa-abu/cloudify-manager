@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Cloudify Manager
+  description: |
+    Cloudify's manager related code
+  annotations:
+    github.com/project-slug: ahmadiesa-abu/cloudify-manager
+spec:
+  lifecycle: production
+  owner: backstage
