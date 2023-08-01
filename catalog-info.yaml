@@ -4,7 +4,8 @@ metadata:
   name: cloudify-manager
   annotations:
     github.com/project-slug: ahmadiesa-abu/cloudify-manager
+    backstage.io/techdocs-ref: .
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: backstage
